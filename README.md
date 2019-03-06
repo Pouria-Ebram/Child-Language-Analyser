@@ -25,4 +25,12 @@ The constructor method which takes a list containing both data sets the SLI and 
 3-  Test Program:
 
 In this program each child group cleaned transcripts is read as individual files and each data is passed through an object of the analyser class in order for the statistics to be calculated the result for each group is inserted in a python list.
+
+Assumptions:
+
+It is assumed that all python files are stored in the same directory as two folders containing the SLI and TD group data named “SLI” and “TD” respectively. This code is written and tested on a system that is running python version 3.6.5 and should be able to work on this version and above. For achieving the desired outcome, the codes are executed and compiled consecutively with task 1, 2, 3 and test_code programs in this very order.
+
+Conclusions:
+
+Overall there seems to be a distinct difference between the two groups language abilities, the TD group has been able to produce transcripts which have more length and a wider use of vocabulary is evident, also we can see that the TD group has had less repetition of words or sentences where as they are quite even when it comes to number of retraces with a slight disadvantage for the SLI group. Also, the number of grammatical errors seems low in both groups but better for the TD group. Finally, the TD group seemed to have used more pauses in their dialog.
 After that both groups lists are passed through an object of the visualiser class so that the bar charts are created and demonstrated also print statements are used to show the functionality of the other methods within this class.
