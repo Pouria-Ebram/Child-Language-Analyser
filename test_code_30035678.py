@@ -1,16 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-FIT9133 Programming foundations in python assignment 2
-
 Sample Program to execute the classes and demonstrate the results
 
 Created on Thu Sep 27 08:45:58 2018
 
 Last edited on Oct 05 14:00 2018
 
-@author: Pouria Ebrahimnezhad
-
-STUID: 30035678
+@author: Pouria Ebram
 
 """
 
