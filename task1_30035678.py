@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-FIT9133 Programming foundations in python assignment 2
 
 Task1: Handling with File Contents and Preprocessing
 
@@ -8,9 +7,7 @@ Created on Tue Sep 25 09:14:28 2018
 
 Last edited on Oct 05 14:04 2018
 
-@author: Pouria Ebrahimnezhad
-
-STUID: 30035678
+@author: Pouria Ebram
 
 """
 import re
